@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sophos.pruebatecnica.RunnerFeatures
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 59.454 sec - in com.sophos.pruebatecnica.RunnerFeatures

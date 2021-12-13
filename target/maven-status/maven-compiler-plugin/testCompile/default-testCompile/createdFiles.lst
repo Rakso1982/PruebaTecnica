@@ -1,0 +1,5 @@
+com\sophos\pruebatecnica\definitions\OfertasTrabajoDisponiblesDefinition.class
+com\sophos\pruebatecnica\AppTest.class
+com\sophos\pruebatecnica\pageobjects\OfertasTrabajoDisponiblesPageObjects.class
+com\sophos\pruebatecnica\RunnerFeatures.class
+com\sophos\pruebatecnica\steps\OfertasTrabajoDisponiblesSteps.class
